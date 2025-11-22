@@ -1,0 +1,5 @@
+{
+  "name": "nexus ai app",
+  "description": "A comprehensive multi-modal AI creative suite for generating text, images, video, and audio using the latest Gemini models.",
+  "requestFramePermissions": []
+}
